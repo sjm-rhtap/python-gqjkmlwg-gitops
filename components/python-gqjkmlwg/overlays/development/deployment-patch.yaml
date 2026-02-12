@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: artifactory-docker-artifactory.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/python-gqjkmlwg:ac05e079e78a3b383868051f40adac224f3102cc@sha256:71dc939288a9005971a9af9d28256e013a34d3d1fcff35ab60243547226a26b5
+        - image: artifactory-docker-artifactory.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/python-gqjkmlwg:421ec93a1778a6c2bf5dd031ace25424ffb41d8f@sha256:3d5b7afe697f1dd1b3dd8ee0a43948bfb9333ef95ca1aa06e8d423e69baa9ec7
           name: container-image
